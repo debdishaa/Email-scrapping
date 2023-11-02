@@ -9,8 +9,7 @@ Sure, let's summarize the disadvantages of using each tool:
 - **Security Concerns:** The ease with which tools like localtunnel and ngrok allow local servers to be exposed to the internet has led to misuse by some individuals, such as hosting malicious sites. The new security features included in localtunne made ngrok a better option to use.
 
 **2. BeautifulSoup:**
-- **Time-consuming:** The given approach could take 30 hours.
-- **Delay in Extraction:** There's a 3-second delay during each data extraction iteration.
+- **Time-consuming:** The given approach could take hours. There's also a 3-second delay during each data extraction iteration.
 - **Risk of IP Ban:** Intentional pauses between two scraping activities are necessary to avoid potential IP bans from sites like Google.
 - **Captcha Challenge Risk:** If Google or another site introduces a captcha challenge during the scraping process, it can disrupt or halt the scraping.
 
