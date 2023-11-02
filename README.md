@@ -6,7 +6,6 @@ Sure, let's summarize the disadvantages of using each tool:
 **1. Ngrok:**
 - **Temporary Setup:** The ngrok URL changes every time you restart the Flask app in Colab.
 - **Not Meant for Production:** Since I used Colab server, it is not intended to be a production or long-term server.
-- **Rights to Scrape:** Users need to ensure they have the right to scrape a website.
 - **Security Concerns:** The ease with which tools like localtunnel and ngrok allow local servers to be exposed to the internet has led to misuse by some individuals, such as hosting malicious sites. The new security features included in localtunne made ngrok a better option to use.
 
 **2. BeautifulSoup:**
